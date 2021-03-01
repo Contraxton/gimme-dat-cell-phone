@@ -2,7 +2,8 @@
     "name": "Gimme dat Cell Phone",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "color": "*"
     },
     "files": [
         "main.blocks",
